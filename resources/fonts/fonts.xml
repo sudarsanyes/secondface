@@ -1,0 +1,5 @@
+<fonts>
+   <font id="t1" filename="../fonts/t1.fnt" antialias="true" />
+   <font id="t2" filename="../fonts/t2.fnt" antialias="true" />
+   <font id="f1" filename="../fonts/f1.fnt" antialias="true" />
+</fonts>
